@@ -1,7 +1,9 @@
 # c-programming-language
 c语言程序设计
 
-
+lab4 :
+ex1 : 书上67页 练习4-3
+ex2 : 书上67页 练习4-4
 
 
 lab3 : 
